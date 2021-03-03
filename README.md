@@ -1,1 +1,3 @@
-# Real-and-Fake-News
+The advent of the internet is arguably the most important event in human history. One of the dangers present when surfing the web is consuming false information. Any internet user would benefit from understanding what fake news looks like. In this notebook, we will be focusing on identifying the distinguishing features in real news and fake news.
+
+Let's start by asking a few questions of the dataset. How similar are the news headlines? How different are they from each other? Are there words or phrases they have in common? What are the similarities and differences in lexical diversity between real and fake news? What can we conclude about what fake news looks like?
